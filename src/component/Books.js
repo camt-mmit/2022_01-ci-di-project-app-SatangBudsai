@@ -49,14 +49,15 @@ function Books() {
                 </a>
                 <div>
                     <Link to="/" class="fs-3 text-white dropshadow text-decoration">
-                        <button type="button" class="btn btn-outline-light">Access Token</button>
+                        <button type="button" class="btn btn-outline-info ">Access Token</button>
                     </Link>
                     <Link to="/books" class="fs-3 text-white dropshadow text-decoration">
-                        <button type="button" class="btn btn-outline-light ms-3">Books</button>
+                        <button type="button" class="btn btn-outline-info  ms-3">Books</button>
                     </Link>
                     <Link to="/users" class="fs-3 text-white dropshadow text-decoration">
-                        <button type="button" class="btn btn-outline-light ms-3">Users</button>
+                        <button type="button" class="btn btn-outline-info  ms-3">Users</button>
                     </Link>
+
 
                 </div>
 
